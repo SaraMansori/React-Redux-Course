@@ -1,17 +1,18 @@
 # React-Redux-Course
 
 Projects made and notes taken in the React Redux Course
+🔨 Course in process
 
 ## Course Overview
 
 -   **Section 1** - Introduction
--   **Section 2** - Building Content with JSX (Comments Panel)
--   **Section 3** - Communicating with props
--   **Section 4** - Structuring Apps with Class-Based Components
--   **Section 5** - State in React Components
--   **Section 6** - Understanding Lifecycle Methods
--   **Section 7** - Handling User Input with Forms and Events
--   **Section 8** - Making API requests with React
+-   **Section 2** - Building Content with JSX (Comments Panel) ✔️
+-   **Section 3** - Communicating with props ✔️
+-   **Section 4** - Structuring Apps with Class-Based Components ✔️
+-   **Section 5** - State in React Components ✔️
+-   **Section 6** - Understanding Lifecycle Methods ✔️
+-   **Section 7** - Handling User Input with Forms and Events ✔️
+-   **Section 8** - Making API requests with React ✔️
 -   **Section 9** - Building Lists of Records
 -   **Section 10** - Using Ref's for DOM Access
 -   **Section 11** - Test
